@@ -1,3 +1,3 @@
   # Demo
   
-  I am an aws enthusiaiste
+  I am an aws enthusiaste
